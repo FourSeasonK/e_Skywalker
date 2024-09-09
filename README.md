@@ -23,6 +23,7 @@ This repository contains a RESTful web service developed in Java with the Spring
 
 ---
 
+
 # se_project_frontend
 
 ## Project setup
@@ -119,7 +120,7 @@ $ git push origin --delete remoteBranchName
 ```
 <br/>
 
-<h2>📝 <strong>References</strong></h2>
+<h2><strong>References</strong></h2>
 <ol>    
   <li>
     <a href="https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository">
