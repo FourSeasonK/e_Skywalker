@@ -43,4 +43,77 @@ yarn lint
 ```
 ### Customize configuration
 ```
-Configuration Reference](https://cli.vuejs.org/config/)
+Configuration Reference (https://cli.vuejs.org/config/)
+
+
+<h2> <strong>Github Best Practices</strong></h2>
+
+<strong>Clone the repository:</strong>
+
+```javascript
+$ git clone https://github.com/leandrofahur/se_project_backend.git
+```
+
+<strong>Create your own branch:</strong>
+
+```javascript
+$ git checkout -b  <branch_name>
+```
+
+If you are in the main branch, this command will copy the main one and create a new branch named <branch_name>.
+
+<strong>Staging, commiting and pushing:</strong>
+
+```javascript
+$ git add .
+```
+
+```javascript
+$ git commit -m "a comment describing what this commit is about"
+```
+
+```javascript
+$ git push
+```
+
+If you are pushing for the first time, git will ask you to execute the command
+
+```javascript
+$ git push --set-upstream origin <branch_name>
+```
+
+Where the <branch_name> tag is the name of your local branch that is going to be created on the remote repository.
+
+<strong>Always keep things up to date:</strong>
+
+```javascript
+$ git pull
+```
+
+If you are pulling for the first time, git will ask you to execute a command similar to the one listed for push.
+
+<strong>Wrapping up:</strong>
+
+After finishing your work, and the branch is ready to merge with master, execute the following:
+
+```javascript
+$ git checkout master
+```
+
+and then
+
+```javascript
+$ git merge <branch_name>
+```
+
+<strong>Delete branch locally</strong>
+
+```javascript
+$ git branch -d localBranchName
+```
+
+<strong>Delete branch remotely</strong>
+
+```javascript
+$ git push origin --delete remoteBranchName
+```
