@@ -22,3 +22,24 @@ This repository contains a RESTful web service developed in Java with the Spring
 - Sung Ah Kim
 
 ---
+
+# se_project_frontend
+
+## Project setup
+```
+yarn install
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+### Compiles and minifies for production
+```
+yarn build
+```
+### Lints and fixes files
+```
+yarn lint
+```
+### Customize configuration
+Configuration Reference](https://cli.vuejs.org/config/)
