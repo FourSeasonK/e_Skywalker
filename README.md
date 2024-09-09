@@ -42,4 +42,5 @@ yarn build
 yarn lint
 ```
 ### Customize configuration
+```
 Configuration Reference](https://cli.vuejs.org/config/)
