@@ -23,8 +23,9 @@ This repository contains a RESTful web service developed in Java with the Spring
 
 ---
 
-```
+
 # se_project_frontend
+
 
 ## Project setup
 ```
