@@ -117,3 +117,14 @@ $ git branch -d localBranchName
 ```javascript
 $ git push origin --delete remoteBranchName
 ```
+<br/>
+
+<h2>📝 <strong>References</strong></h2>
+<ol>    
+  <li>
+    <a href="https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository">
+        Github - Configuring branches and merges in your repository
+    </a>
+  </li>
+</ol>
+<br/>
