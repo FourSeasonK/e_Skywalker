@@ -22,8 +22,8 @@ This repository contains a RESTful web service developed in Java with the Spring
 - Sung Ah Kim
 
 ---
-<br/>
-<br/>
+
+```
 # se_project_frontend
 
 ## Project setup
@@ -47,7 +47,7 @@ yarn lint
 Reference (https://cli.vuejs.org/config/)
 
 <br/>
-<br/>
+
 <h2> <strong>Github Best Practices</strong></h2>
 
 <strong>Clone the repository:</strong>
